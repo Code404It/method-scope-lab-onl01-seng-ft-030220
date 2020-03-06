@@ -1,5 +1,5 @@
 def rescue_princess_peach
-"Hooray! Mario has rescued Princess Peach."
+"rescued"
 end
 
 ## Comment the below back in to see method scope in action!
